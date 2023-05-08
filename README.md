@@ -1,4 +1,4 @@
-# NEMP - command line admin software
+# NEMP Command Line Admin
 
 This is the command line admin software for [**NEMP Server**](https://github.com/libersoft-org/nemp-server/).
 
